@@ -1,0 +1,14 @@
+C:\Users\Serj\source\repos\Practos\Practos\obj\Debug\net6.0\Practos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serj\source\repos\Practos\Practos\obj\Debug\net6.0\Practos.AssemblyInfoInputs.cache
+C:\Users\Serj\source\repos\Practos\Practos\obj\Debug\net6.0\Practos.AssemblyInfo.cs
+C:\Users\Serj\source\repos\Practos\Practos\obj\Debug\net6.0\Practos.csproj.CoreCompileInputs.cache
+C:\Users\Serj\source\repos\Practos\Practos\bin\Debug\net6.0\Practos.exe
+C:\Users\Serj\source\repos\Practos\Practos\bin\Debug\net6.0\Practos.deps.json
+C:\Users\Serj\source\repos\Practos\Practos\bin\Debug\net6.0\Practos.runtimeconfig.json
+C:\Users\Serj\source\repos\Practos\Practos\bin\Debug\net6.0\Practos.dll
+C:\Users\Serj\source\repos\Practos\Practos\bin\Debug\net6.0\Practos.pdb
+C:\Users\Serj\source\repos\Practos\Practos\obj\Debug\net6.0\Practos.dll
+C:\Users\Serj\source\repos\Practos\Practos\obj\Debug\net6.0\refint\Practos.dll
+C:\Users\Serj\source\repos\Practos\Practos\obj\Debug\net6.0\Practos.pdb
+C:\Users\Serj\source\repos\Practos\Practos\obj\Debug\net6.0\Practos.genruntimeconfig.cache
+C:\Users\Serj\source\repos\Practos\Practos\obj\Debug\net6.0\ref\Practos.dll
